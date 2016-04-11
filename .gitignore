@@ -1,0 +1,7 @@
+# I don't know why vim is making so many swap files but let's ignore all of them
+*.pyc
+*.py~
+*.md~
+*.swp
+__pycache__
+*.un~
